@@ -1,5 +1,7 @@
 # Supply chain & data auditing
 
+**NOTE:** An additional README.md required in the project's rubic, describing the code etc., can be found in the directory [code](https://github.com/patrem98/Fair_Trade_Coffee_Supply_Chain/tree/master/code)!
+
 This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
 
 The DApp User Interface when running should look like...
