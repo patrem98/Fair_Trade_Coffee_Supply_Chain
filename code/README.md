@@ -1,4 +1,4 @@
-# Project 6: Fair Trade Coffe Supply Chain - Write Up
+# Project 3: Fair Trade Coffe Supply Chain - Write Up
 
 ## 1. Versions, libraries and dependencies
 
