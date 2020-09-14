@@ -1,12 +1,14 @@
 # Project 6: Fair Trade Coffe Supply Chain - Write Up
 
-## 1. Versions and libraries
+## 1. Versions, libraries and dependencies
 
 - **Truffle v5.1.14-nodeLTS.0 (core: 5.1.13)**: used to develop, test and deploy the smart contracts of the "Coffe Supply Chain" Tracker-DApp.
 - **Solidity v0.5.16 (solc-js)**: used to write smart contracts.
 - **Node v12.16.3**: used for deploying UI to browser (for building network applications).
 - **Web3.js v1.2.1**: DApp interaction with local or remote Ethereum node (via HTTP).
-- **Infura**: connecting the DApp to the Ethereum (Rinkeby) network without the need to set up a complete Ethereum node or wallet by using a hosted Ethereum node cluster.
+- **Infura**: connecting the DApp to the Ethereum (Rinkeby) network without the need to set up a complete Ethereum node or wallet by using a hosted Ethereum node cluster. 
+
+***Note:** In order to connect to the Infura Node, the 'truffle-hdwallet-provider' still needs to be installed by running the command 'npm install --save truffle-hdwallet-provider'. This command installs an additional directory called 'node_modules'. The latter, however, apparently comprises of too many files to submit it through the Udacity Submission portal (I tried as Github Repo and as .zip-file, neither worked :(), being the reason I have removed it and added this note.*
 
 ## 2. General write-up
 
